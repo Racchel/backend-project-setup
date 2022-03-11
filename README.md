@@ -1,15 +1,16 @@
-# SETUP Projeto
+# SETUP Projeto Backend
 
 <p>Este repositório possui um SETUP para um *projeto BACKEND* com as seguintes stacks</p>
 
-- [] NodeJS
-- [] Express
-- [] Typescript
+- [X] NodeJS
+- [X] Express
+- [X] Typescript
 - [] TypeORM
 - [] Postgres
 - [] Docker
-- [] Jest
-- [] Eslint (Standard)
-- [] Babel para build
+- [X] Jest
+- [X] Eslint (Standard)
+- [X] Babel para build
 - [] Lint-staged
 - [] Husky
+- [] DotENV
